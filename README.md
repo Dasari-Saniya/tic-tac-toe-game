@@ -24,4 +24,4 @@ You can host this project using GitHub Pages:
 1. Go to your repository → **Settings → Pages**  
 2. Select **main branch / root folder** → Save  
 3. Your game will be available at:  
-https://github.com/Dasari-Saniya/tic-tac-toe-game
+https://dasari-saniya.github.io/tic-tac-toe-game/
